@@ -1,0 +1,52 @@
+img {
+	width: 300px; max-width: 100%; 
+	}
+	
+body {
+	background-color: black; margin: auto; max-width: 700px;
+}
+	
+h2 {
+	color: white; text-align: center; font-size: 30px;
+}	
+	
+.coolheadkuva {
+	border: 5px solid black;
+}	
+	
+.olarinkuva {
+	border: 5px solid black;
+}	
+
+.salamakuva {
+	border: 5px solid black;
+}
+
+.coolheadteksti {
+	color: white;
+}	
+	
+.olarinteksti {
+	color: white;
+}
+	
+.salamateksti {
+	color: red;
+	}
+	
+#otsikko {
+	background-color: black; color: white; text-align: center; font-size: 30px;
+}	
+
+#salama {
+	background-color: pink;
+}
+
+#coolhead {
+	background-color: green;
+}
+
+#olarinpanimo {
+	background-color: grey;
+}
+
